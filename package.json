@@ -18,21 +18,16 @@
   },
   "homepage": "https://github.com/kingscott/fluffy-guide#readme",
   "devDependencies": {
-    "babel": "^5.6.14",
-    "babel-core": "^5.6.18",
-    "babel-eslint": "^3.1.23",
-    "babel-loader": "^5.3.1",
-    "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^2.1.1",
-    "eslint-loader": "^1.1.1",
-    "eslint-plugin-babel": "^3.0.0",
-    "eslint-plugin-react": "^3.13.1",
-    "json-loader": "^0.5.4",
-    "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0"
+    "babel": "^6.5.2",
+    "babel-core": "^6.8.0",
+    "babel-loader": "^6.2.4",
+    "standard": "^7.0.1",
+    "standard-loader": "^3.0.0",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3"
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
   }
 }
